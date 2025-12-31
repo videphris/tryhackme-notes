@@ -8,9 +8,10 @@
 One sentence summary of what I did or found.
 
 ### Key commands
-
+Anything worth keeping.
 
 ### What confused me / slowed me down
-
+Freeform notes.
 
 ### Key takeaway
+One thing to remember next time.
