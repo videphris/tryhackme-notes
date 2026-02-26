@@ -3,6 +3,7 @@
 
 **Goal / Objective:**  
 > 1–2 lines describing the main learning objective.
+
 Understand data encoding methods such as ASCII and Unicode
 
 ### Quick TL;DR
