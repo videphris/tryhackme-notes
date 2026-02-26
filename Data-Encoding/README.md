@@ -2,11 +2,11 @@
 **Room URL / ID:** (https://tryhackme.com/room/dataencoding/)
 
 **Goal / Objective:**  
-1–2 lines describing the main learning objective.
+> 1–2 lines describing the main learning objective.
 Understand data encoding methods such as ASCII and Unicode
 
 ### Quick TL;DR
-One sentence summary of what I did or found.
+*One sentence summary of what I did or found.*
 Understood how binary (the computer's language) mapped to encoding standard like ASCII and Unicode via bits.
 Hexadecimal is used primarily for humans to read bits more easily and is standard in ASCII.
 
