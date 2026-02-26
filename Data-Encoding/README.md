@@ -13,7 +13,8 @@ Understood how binary (the computer's language) mapped to encoding standard like
 Hexadecimal is used primarily for humans to read bits more easily and is standard in ASCII.
 
 ### Key commands
-Anything worth keeping.
+> Anything worth keeping.
+
 Not applicable, perhaps using encoding calculators
 
 ### What confused me / slowed me down
@@ -21,7 +22,8 @@ Understanding the entire lines of UTF (Unicode Transformation Format) U-8 U-16 U
 This is used to store unicode points into bytes (what computers understand)
 
 ### Key takeaway
-One thing to remember next time.
+> One thing to remember next time.
+
 Remember
 Binary = computer's language
 Decimal = Human's language
