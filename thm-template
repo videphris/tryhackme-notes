@@ -1,17 +1,20 @@
 **Date:** YYYY-MM-DD  
-**Room URL / ID:** https://tryhackme.com/room/xxx  
+**Room URL / ID:**
 
 **Goal / Objective:**  
-1–2 lines describing the main learning objective.
+> 1–2 lines describing the main learning objective.
 
-### Quick TL;DR
-One sentence summary of what I did or found.
+### Core Concept (In My Own Words)
+*Explain the main idea simply and clearly.*
 
 ### Key commands
 Anything worth keeping.
 
 ### What confused me / slowed me down
+-
 
+### Security Relevance
+Why this matters in real-world cybersecurity.
 
 ### Key takeaway
-One thing to remember next time.
+Single sentence I want to remember.
