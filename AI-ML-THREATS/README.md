@@ -1,0 +1,20 @@
+**Date:** YYYY-MM-DD  
+**Room URL / ID:**
+
+**Goal / Objective:**  
+> 1–2 lines describing the main learning objective.
+
+### Core Concept (In My Own Words)
+> Explain the main idea simply and clearly.
+
+### Key commands
+> Anything worth keeping.
+
+### What confused me / slowed me down
+-
+
+### Security Relevance
+> Why this matters in real-world cybersecurity.
+
+### Key takeaway
+> Single sentence I want to remember.
