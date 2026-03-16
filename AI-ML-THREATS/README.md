@@ -10,7 +10,9 @@ Learn how AI models operate in a deeper level by understanding LLMs, Machine Lea
 > Explain the main idea simply and clearly.
 Deep learning is a sub field of machine learning that is the basis of LLMs.
 It is unsupervised and can ingest non-formatted data and self improve, it is known as unsupervised learning.
+
 Deep learning uses a concept of neural networks where each node acts as a synapse communicating with others via signals.
+Encompasses transformer neural networks and is what has caused the emergence in LLMs and other generative AI.
 
 Machine learning is major field and it uses formatted human created input.
 
@@ -20,6 +22,8 @@ Broad goal, make computers perform tasks that require human intelligence.
 LLMs were revolutionized by Google in 2017 introducing transformers. It is called "Attention is all you need" 
 
 Pre-training is the initial phase used to feed the LLM large datasets of text.
+
+Implement AI securely to prevent unforseen vulerabilities from taking place.
 
 
 ### Key commands
