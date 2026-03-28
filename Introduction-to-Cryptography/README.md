@@ -15,6 +15,17 @@ Asymmetric key encryption is best used to set up symmetric key encryption (as sy
 
 HMAC is verifying integrity by hashing with a key. This is much like a stamped and sealed letter proving integrity.
 
+PKI (Public Key Insfrastructure) is how we prevent MITM attacks when using the Diffie-Hellman assymetric key exchange. We create certificate like with openSSL and get it signed with a trusted CA authority (like Digicert which is trusted by many browsers). 
+SSL/TLS handshake occurs after the browser receives a signed certificate it trusts. When you get the untrusted website message that website is not validated by a certificate authority.
+Signing means that after the SSL/TLS certificate is received, the Certificate Authority signs the hash of the certificate with their private key then appends it to the certificate. If the certificate authority is trusted, the third party will decrypt the hash using the CA's public key and compare it with the certificate.
+
+After the TLS/SSL handshake this commences secret key with the diffie-hellman exchange then symmetric encryption for speed.
+
+Hashing - a one way cryptographic function to store passwords securely. Commonly, a randomly generated salt is appended to the password pre-hash. The salt is public but makes it more resource intensive for attackers as they have to brute force each user.
+
+SSL/TLS protects data in transit
+Hashing protects data at rest. Hashing is secure when passwords are salted as rainbow tables deplete the security for hashing.
+
 ### Why It Matters
 --- Why does this matter? What problem does it solve?
 
